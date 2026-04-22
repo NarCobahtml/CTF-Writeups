@@ -14,10 +14,7 @@ This repository contains a collection of writeups for various Capture The Flag (
 
 * [Purpose](#purpose)
 * [Repository Structure](#-repository-structure)
-* [Writeup Format](#-writeup-format)
 * [Categories](#-categories)
-* [Tools Frequently Used](#️-tools-frequently-used)
-* [Notes](#-notes)
 * [Progress](#-progress)
 * [Contribution](#-contribution)
 * [Disclaimer](#-disclaimer)
