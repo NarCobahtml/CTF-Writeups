@@ -102,7 +102,7 @@ base64 -d <<< UkVETElNSVR7RVhJRlRPT0x9
 The decoded output is:
 
 ```text
-REDLIMIT{EXIFTOOL}
+REDLIMIT{REDACTED}
 ```
 
 ---
@@ -110,7 +110,7 @@ REDLIMIT{EXIFTOOL}
 ## Flag
 
 ```text
-REDLIMIT{EXIFTOOL}
+REDLIMIT{REDACTED}
 ```
 
 ---
