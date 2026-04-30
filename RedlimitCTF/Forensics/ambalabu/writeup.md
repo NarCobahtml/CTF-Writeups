@@ -77,7 +77,7 @@ The strange characters suggest **Zero Width Steganography**, where hidden data i
 
 Use an online tool like **StegZero** to analyze the text.
 
-[detect.png]
+![Analyze text](detect.png)
 
 The tool confirms that hidden data exists in the text.
 
@@ -93,7 +93,7 @@ RUSDI&AMBA
 
 Decoding reveals the flag.
 
-[dcode.png]
+![decoding](dcode.png)
 
 ---
 
